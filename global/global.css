@@ -1,0 +1,22 @@
+body {
+  background-color: #6879DB;
+}
+
+main {
+  background: #ECEFFA;
+  width: 100vw;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  height: 90vh;
+}
+
+#player {
+  background: #ECEFFA;
+  top: 85vh;
+  height: 10vh;
+  width: 100vw;
+  position: absolute;
+  box-shadow:rgba(0, 87, 255, 0.6) 2px 2px 3px 3px;
+  border-radius: 5vh;
+}
