@@ -20,3 +20,8 @@ main {
   box-shadow:rgba(0, 87, 255, 0.6) 2px 2px 3px 3px;
   border-radius: 5vh;
 }
+
+.buttons button{
+  height: 10vh;
+  width: 10vh;
+}
