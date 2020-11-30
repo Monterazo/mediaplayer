@@ -1,27 +1,36 @@
-body {
-  background-color: #A7B1ED;
-}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 
 main {
-  background: #ECEFFA;
+  background-color:#ECEFFA;
+  margin-top: -1vh;
+  margin-left: -7px;
   width: 100vw;
-  left: 0px;
-  top: 0px;
-  position: absolute;
   height: 90vh;
 }
 
-#control {
-  background: #ECEFFA;
-  top: 85vh;
-  height: 10vh;
-  width: 100vw;
-  position: absolute;
-  box-shadow:rgba(0, 87, 255, 0.6) 2px 2px 3px 3px;
-  border-radius: 5vh;
+body {
+  background-color: #A7B1ED;;
 }
 
-.buttons button{
-  height: 10vh;
-  width: 10vh;
+h2 {
+  font-family: 'Bebas Neue', cursive;
+}
+h3 {
+  font-family: 'Bebas Neue', cursive;;
+}
+
+footer {
+  font-family: 'Bebas Neue', cursive;
+}
+
+h2 {
+  color: #707070;
+}
+h3 {
+  color: #707070;
+}
+
+main h4 {
+  color: #707070;
 }
