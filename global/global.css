@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100&display=swap');
 
+.playlist button:hover {
+  background-color: #7F8EE0;
+}
 
 main {
   background-color:#ECEFFA;

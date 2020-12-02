@@ -1,3 +1,4 @@
+@media(min-width: 1024px) {
 /* CSS do main */
 .container {
   height: 86vh;
@@ -55,58 +56,6 @@ main h3 {
   height: 22vw;
   width: 22vw;
   border-radius: 12.5vw;
-}
-
-/* Divisão */
-.division {
-  height: 86vh;
-  width: 1.5px;
-  background: #707070;
-}
-
-/* Playlist */
-.playlist {
-  display: flex;
-  margin-top: -10vh;
-  display: flex;
-  flex-direction: column;
-  width: 55vw;
-  height: 86vh;
-}
-
-.playlist h2 {
-  display: flex;
-  font-size: 100px;
-  align-self: center;
-  height: 10vh;
-}
-
-.playlist ul {
-  display: flex;
-  flex-direction: column;
-
-}
-
-.playlist li {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  height: 15vh;
-}
-
-.playlist button {
-  background: #6879DB;
-  display: flex;
-  margin-top: -0.75vh;
-  height: 11vh;
-  box-shadow:rgba(0, 87, 255, 0.4) 2px 2px 2px 2px;
-  width: 11vh;
-  border-radius: 5.5vh;
-  border: 0px;
-  font-size: 50px;
-  justify-content: center;
-  align-content: center;
-  align-items: center;
 }
 
 /* Controlador da música */
@@ -176,4 +125,5 @@ main h3 {
 footer {
   display: flex;
   margin-top: 3vh;
+}
 }
