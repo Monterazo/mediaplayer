@@ -1,4 +1,4 @@
-@media(max-width: 800px) {
+@media(max-width: 600px) {
 
   main {
     display: flex;
@@ -58,7 +58,7 @@
     margin-right: auto;
     display: flex;
     appearance: none;
-    width: 45vw; 
+    width: 55vw; 
     height: 4vh;
     background: white; 
     border-radius: 2vh;
@@ -109,4 +109,5 @@
   footer {
     display: flex;
     margin-top: 3vh;
+}
 }
